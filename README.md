@@ -1,6 +1,6 @@
 ### Hi, I'm Pralay Sarkar 👋
 
-ORGANIZED, DEDICATED AND AMBITIOUS STUDENT WITH EXCELLENT ATTENTION TO DETAIL, AND THIRST FOR LEARNING SOMETHING NEW ALSO INTERESTING IN WORKING CLOSELY WITH EXPERIENCED TECHNICAL BACKGROUND PEOPLE AND CONTRIBUTE TO THE SOCIETY SOMETHING GOOD. 
+Organized, dedicated and ambitious student with excellent attention to detail, and thirst for learning something new also interesting in working closely with experienced technical background people and contribute to the society something good.
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
