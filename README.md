@@ -6,7 +6,7 @@ ORGANIZED, DEDICATED AND AMBITIOUS STUDENT WITH EXCELLENT ATTENTION TO DETAIL, A
 
 - 🔭 I’m currently working on ML projects.
 - 🌱 Smart India Hackathon 2020 Winner. 
-- 🌱 Paricipated TCS Codevita Season 9 | AIR 373
+- 🌱 Participated TCS Codevita Season 9 | AIR 373
 - 📫 How to reach me: pcsarkar7468@gmail.com
 - 😄 Pronouns: He/Him.
 
