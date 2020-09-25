@@ -7,18 +7,21 @@ ORGANIZED, DEDICATED AND AMBITIOUS STUDENT WITH EXCELLENT ATTENTION TO DETAIL, A
 - 🔭 I’m currently working on ML projects.
 - 🌱 Smart India Hackathon 2020 Winner. 
 - 🌱 Paricipated TCS Codevita Season 9 | AIR 373
-- 💬 Ask me about machine learning, web development, and tech related career advice.
 - 📫 How to reach me: pcsarkar7468@gmail.com
 - 😄 Pronouns: He/Him.
 
 <br>
+<a href="https://api.whatsapp.com/send?phone=+917468924741&text=Hi%20There!%20This%20is%20My%20Whatsapp%20Number">
+  <img align="left" alt="Pralay's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/whatsapp.svg" />
+</a>
 <a href="https://www.facebook.com/pralaysarkar7.1.14">
-  <img align="left" alt="Pralay Sarkar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pralay Sarkar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pralaysarkar/">
   <img align="left" alt="Pralay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/PralaySarkar7468?hr_r=1">
-  <img align="left" alt="Pralay's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Pralay's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/hackerrank.svg" />
 </a>
+
 
