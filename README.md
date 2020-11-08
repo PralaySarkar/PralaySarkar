@@ -2,8 +2,8 @@
 
 Organized, dedicated and ambitious student with excellent attention to detail, and thirst for learning something new also interesting in working closely with experienced technical background people and contribute to the society something good.
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 🔭 I’m currently working on ML projects.
-- 🌱 Smart India Hackathon 2020 Winner. 
+- 🔭 I’m currently working on ML projects
+- 🌱 Smart India Hackathon 2020 Winner 
 - 🌱 Participated TCS Codevita Season 9 | AIR 373
 - 📫 How to reach me: pcsarkar7468@gmail.com
 - 😄 Pronouns: He/Him
