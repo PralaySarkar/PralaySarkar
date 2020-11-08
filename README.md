@@ -6,7 +6,7 @@ Organized, dedicated and ambitious student with excellent attention to detail, a
 - 🌱 Smart India Hackathon 2020 Winner. 
 - 🌱 Participated TCS Codevita Season 9 | AIR 373
 - 📫 How to reach me: pcsarkar7468@gmail.com
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He/Him
 
 <br>
 <a href="https://api.whatsapp.com/send?phone=+917468924741&text=Hi%20There!%20This%20is%20My%20Whatsapp%20Number" target="_blank">
