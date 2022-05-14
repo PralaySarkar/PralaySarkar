@@ -12,7 +12,7 @@ Organized, dedicated and ambitious student with excellent attention to detail, a
 <a href="https://api.whatsapp.com/send?phone=+919932725434&text=Hi%20There!%20This%20is%20My%20Whatsapp%20Number" target="_blank">
   <img align="left" alt="Pralay's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/whatsapp.svg" />
 </a>
-<a href="https://www.facebook.com/pralaysarkar7.1.14" target="_blank">
+<a href="https://www.facebook.com/io.pralaysarkar" target="_blank">
   <img align="left" alt="Pralay Sarkar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pralaysarkar/" target="_blank">
